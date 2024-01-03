@@ -1,5 +1,11 @@
 # [www.apitee.com](https://www.apitee.com/#/)
 
+
+<img width="375" alt="2" src="https://github.com/apitee/www/assets/5669657/1642ed6b-e76b-4236-8371-7a6cdac193b1">
+
+Kernel provides a TEE bus infrastructure where a Trusted Application is represented as a device identified via Universally Unique Identifier (UUID) and client drivers register a table of supported device UUIDs.
+
+
 rozwiązanie do szybkiego budowania środowiska,
 pozwala na wykonywanie wielu działań na wielu repozytoriach jednocześnie
 + docker 
